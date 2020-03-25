@@ -50,6 +50,7 @@
     display: none;
   }
 }
+
 @media (min-width: 769px) {
   .toolbar__toggle-button {
     display: none;
@@ -58,6 +59,7 @@
     margin-left: 0;
   }
 }
+
 @media (min-width: 1000px) {
   .toolbar_navigation-items li {
     padding: 0 2.5rem;
